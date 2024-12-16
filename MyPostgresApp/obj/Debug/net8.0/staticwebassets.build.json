@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8zP8D30VP47gDf/7QU+Z6N4QnSHoO6j97mOsF4gr+8A=",
+  "Source": "MyPostgresApp",
+  "BasePath": "_content/MyPostgresApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
